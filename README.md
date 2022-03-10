@@ -71,7 +71,7 @@ ___
 ul.cat {}
 ```
 ___
-### Descendant Combinator : 선택자 div의 하위 요소 cat 을 선택 ✩ 띄어스기가 선택자의 기호 !✩
+### Descendant Combinator : 선택자 div의 하위 요소 cat 을 선택 ✩ 띄어쓰기가 선택자의 기호 !✩
 ```
 div .cat{}
 ```
